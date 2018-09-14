@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Home</title>
+  <style>
+    body {
+      background-color: #F8751B;
+    }
+  </style>
+</head>
+
+<body font="verdana" color="black">
+  <div class="topnav">
+    <a class="active" href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+  </div>
+  
+  <center>
+    <h1>Home2</h1>
+  <center>
+</body>
+
+</html>
+
+<!––Colors: Dark Grey and Orange-->
